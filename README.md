@@ -21,3 +21,25 @@ To what extent do factors such as the usage of various pesticides, rainfall, tem
 A dashboard built using R Shiny that shows where the City of Pittsburgh should focus its efforts in fighting food insecurity.  
 [**Link to Dashboard**](https://mattlampl.shinyapps.io/PGH-HFPA-Dashboard/)  
 [**Link to Repo**](https://github.com/mattlampl/Heatlhy-Food-Priority-Areas-Dashboard)
+
+## Functional Data Science Skills
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Data visualization
+- Machine learning
+- Deep learning
+- Natural language processing
+- Time series analysis
+- Data storytelling and communication
+
+## Languages and Technologies
+**`Python`**: `pandas`, `numpy`, `scikit-learn`, `tensorflow`, `pytorch`, `spacy`, `gurobi`, `matplotlib`, `seaborn`, `geopandas`  
+**`R`**: `ggplot`, `dplyr`, `tidyrverse`, `R Shiny`  
+**`SQL`**: `Oracle`, `Postgres`, `MySQL`  
+**`GIS`**: `ArcGIS`, `QGIS`  
+**`Data Visualization Tools`**: `Tableau`, `PowerBI`  
+**`Other`**: `Microsoft Excel`, `git`
+
+## Eductation
+MSPPM Data Analytics, Carnegie Mellon University, 2023
+BS Information Sciences and Technology, Pennsylvania State University, 2017
