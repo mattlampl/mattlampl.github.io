@@ -7,38 +7,25 @@ Hi, my name is Matt. I am a second year student at Carnegie Mellon University's 
 
 ### Project 1: Transportation Equity, Mobility Justice, and Bikesharing in Pittsburgh
 Use Data Science and Statistical Models to propose a network expansion for the bikesharing network with a focus on equity.  
-<div align="center">
-<img src="assets/img/network_map.png" width=50%>
-</div>
-
+![network map](assets/img/network_map.png)  
 [Midpoint Presentation](/assets/Midterm_Presentation.pdf)
 
 ### Project 2: Decreasing the Risk of Reincarceration by Proactively Providing Mental Health Services
 Developed a Machine Learning model that identifies those most at risk of reincarceration to proactively offer mental health services  
-<div align="center">
-<img src="assets/img/mlpp.png" width=50%>
-</div>
-
+![graph](assets/img/mlpp.png)  
 [Report](/assets/MLPP_Final_Report.pdf)  
 [Presentation](/assets/MCRT3_Presentation.pdf)
 
 ### Project 3: To Bee or Not to Bee
 To what extent do factors such as the usage of various pesticides, rainfall, temperature, and more impact the number of honeybee colonies as well as honey yield? In modeling honeybee colony decline, can we effectively predict and simulate honeybee production in a given state and/or region?  
-<div align="center">
-<img src="assets/img/bees_knees.png" width=50%>
-</div>
-
+![graph](assets/img/bees_knees.png)  
 [Report](/assets/bees_knees_report.pdf)  
 [Presentation](/assets/bees_knees_presentation.pdf)  
 [Repository](https://github.com/mattlampl/bees_knees)
 
 ### Project 4: Healthy Food Priority Areas Dashboard
 A dashboard built using R Shiny that shows where the City of Pittsburgh should focus its efforts in fighting food insecurity.  
-<div align="center">
-<img src="assets/img/hfpa.png" width=50%>
-</div>
-
-
+![hfpa map](assets/img/hfpa.png)  
 [Link to Dashboard](https://mattlampl.shinyapps.io/PGH-HFPA-Dashboard/)  
 [Repository](https://github.com/mattlampl/Heatlhy-Food-Priority-Areas-Dashboard)
 
