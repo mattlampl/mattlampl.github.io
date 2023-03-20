@@ -4,3 +4,4 @@ plugins:
 
 title: Matt Lampl
 description: Portfolio
+site.logo: true
