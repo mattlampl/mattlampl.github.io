@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-
-# Matt Lampl
-
 Hi, my name is Matt. I am a second year student at Carnegie Mellon University's Heinz College studying the interesection of Public Policy and Data Analytics.
 
 ---
