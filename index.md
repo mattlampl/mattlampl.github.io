@@ -9,7 +9,8 @@ Hi, my name is Matt. I am a second year student at Carnegie Mellon University's 
 ### Project 1: Transportation Equity, Mobility Justice, and Bikesharing in Pittsburgh
 Use Data Science and Statistical Models to propose a network expansion for the bikesharing network with a focus on equity.  
 ![network map](assets/img/network_map.png)  
-[Final Presentation](/assets/Final_Presentation.pdf) [Midpoint Presentation](/assets/Midterm_Presentation.pdf)
+[Final Presentation](/assets/Final_Presentation.pdf) [Watch Here](https://www.youtube.com/watch?v=3tjCd_eSJTA)  
+[Final Report](/assets/Transit%20Equity%20in%20Pittsburgh%20-%20A%20Data-Driven%20Approach.pdf)
 
 ### Project 2: Decreasing the Risk of Reincarceration by Proactively Providing Mental Health Services
 Developed a Machine Learning model that identifies those most at risk of reincarceration to proactively offer mental health services  
