@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Hi, my name is Matt. I am a second year student at Carnegie Mellon University's Heinz College studying the interesection of Public Policy and Data Analytics.
+Hi, my name is Matt. I am working at the intersection of Data Science and Public Policy to take a data-driven approach to affect positive change.
 
 ---
 ## Projects
@@ -9,9 +9,9 @@ Hi, my name is Matt. I am a second year student at Carnegie Mellon University's 
 ### Project 1: Transportation Equity, Mobility Justice, and Bikesharing in Pittsburgh
 Use Data Science and Statistical Models to propose a network expansion for the bikesharing network with a focus on equity.  
 ![network map](assets/img/network_map.png)  
-[Final Presentation](/assets/Final_Presentation.pdf)  
-[Final Report](/assets/Transit%20Equity%20in%20Pittsburgh%20-%20A%20Data-Driven%20Approach.pdf)  
-[Watch Recording](https://www.youtube.com/watch?v=3tjCd_eSJTA)
+[Watch Recording](https://www.youtube.com/watch?v=3tjCd_eSJTA)  
+[Presentation Slides](/assets/Final_Presentation.pdf)  
+[Final Report](/assets/Transit%20Equity%20in%20Pittsburgh%20-%20A%20Data-Driven%20Approach.pdf)
 
 ### Project 2: Decreasing the Risk of Reincarceration by Proactively Providing Mental Health Services
 Developed a Machine Learning model that identifies those most at risk of reincarceration to proactively offer mental health services  
@@ -59,7 +59,7 @@ A dashboard built using R Shiny that shows where the City of Pittsburgh should f
 **`Other`**: `Microsoft Excel`, `git`
 
 ---
-## Eductation
+## Education
 MSPPM Data Analytics,  
 Carnegie Mellon University, 2023 
 
