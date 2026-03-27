@@ -9,7 +9,7 @@ Click here for some [cool maps](maps.md)!
 ## Projects
 
 ### Project 1: Transportation Equity, Mobility Justice, and Bikesharing in Pittsburgh
-Use Data Science and Statistical Models to propose a network expansion for the bikesharing network with a focus on equity.  
+Used Data Science and Statistical Models to propose a network expansion for the bikesharing network with a focus on equity.  
 ![network map](assets/img/network_map.png)  
 [Watch Recording](https://www.youtube.com/watch?v=3tjCd_eSJTA)  
 [Presentation Slides](/assets/Final_Presentation.pdf)  
