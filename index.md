@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-Hi, my name is Matt. I am working at the intersection of Data Science and Public Policy to take a data-driven approach to affect positive change.  
-
-Click here for some [cool maps](maps.md)!
+Hi, my name is Matt. I am working at the intersection of Data Science and Public Policy to take a data-driven approach to affect positive change.
 
 ---
 ## Projects
